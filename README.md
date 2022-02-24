@@ -1,9 +1,9 @@
 # mapbox-vue3
 
-in order to make the map work you have to enter your own access token 
+in order to make the map work you have to enter your own access token in the line below in the App.vue
 // https://account.mapbox.com
 
-
+      accessToken:YOURTOKEN,
 
 ## screen shot
 
